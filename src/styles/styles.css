@@ -1,0 +1,20 @@
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin-bottom: 20rem;
+  background-color: rgb(234, 203, 157);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(64, 4, 4);
+}
+
+.picture {
+  background-image: url('../assets/photo-1493612276216-ee3925520721.jpeg');
+  background-size: cover;
+  height: 400px;
+  width: 200px;
+  margin: 0 auto;
+  z-index: 5;
+}
